@@ -1,14 +1,13 @@
 {
-  "homepage": "https://annshibu05/portfolio",
   "name": "vite-react-typescript-starter",
+  "homepage": "https://annshibu05.github.io/portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",

@@ -32,7 +32,7 @@ export default function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <a href="#" className="text-cyan-400 font-bold text-xl font-mono">
-            &lt;SCC /&gt;
+            &lt;AAS /&gt;
           </a>
 
           {/* Desktop Navigation */}

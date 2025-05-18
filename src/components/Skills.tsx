@@ -2,10 +2,10 @@
 import { Cpu } from 'lucide-react';
 
 const skills = {
-  'Programming Languages': ['Python', 'JavaScript', 'C', 'Java', 'C++'],
+  'Programming Languages': ['C++', 'Java', 'C', 'JavaScript','PHP', 'VHDL', 'SQL'],
   'Web Technologies': ['React', 'Node.js', 'HTML5', 'CSS3'],
-  'AI & ML': ['TensorFlow', 'PyTorch', 'OpenCV', 'NumPy', 'Pandas'],
-  'Tools & Platforms': ['Git', 'AWS', 'Linux', 'VS Code'],
+  'AI & ML': ['PyTorch', 'OpenCV', 'NumPy', 'Pandas'],
+  'Tools & Platforms': ['Git', 'Linux', 'VS Code'],
 };
 
 export default function Skills() {

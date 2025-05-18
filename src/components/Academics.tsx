@@ -16,7 +16,7 @@ export default function Academics() {
             <h3 className="text-xl font-bold text-white mb-2">Resume</h3>
             <p className="text-gray-400 mb-4">Download my detailed resume</p>
             <a 
-              href="documents/resume.pdf" 
+              href="/portfolio/documents/resume.pdf" 
               download="resume.pdf"
               className="flex items-center gap-2 px-4 py-2 bg-cyan-400 text-gray-900 rounded-lg hover:bg-cyan-300 transition-colors"
             >
@@ -30,7 +30,7 @@ export default function Academics() {
             <h3 className="text-xl font-bold text-white mb-2">10th Standard</h3>
             <p className="text-gray-400 mb-4">View marks card</p>
             <a 
-              href="documents/10th-marks-card.pdf" 
+              href="portfolio/documents/10th-marks-card.pdf" 
               download="10th-marks-card.pdf"
               className="flex items-center gap-2 px-4 py-2 bg-cyan-400 text-gray-900 rounded-lg hover:bg-cyan-300 transition-colors"
             >
@@ -44,7 +44,7 @@ export default function Academics() {
             <h3 className="text-xl font-bold text-white mb-2">12th Standard</h3>
             <p className="text-gray-400 mb-4">View marks card</p>
             <a 
-              href="documents/12th-marks-card.pdf" 
+              href="portfolio/documents/12th-marks-card.pdf" 
               download="12th-marks-card.pdf"
               className="flex items-center gap-2 px-4 py-2 bg-cyan-400 text-gray-900 rounded-lg hover:bg-cyan-300 transition-colors"
             >

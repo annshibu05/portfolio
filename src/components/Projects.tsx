@@ -3,10 +3,10 @@ import { Code, Shield, Palette, BookOpen } from 'lucide-react';
 
 const projects = [
   {
-    title: 'DDoS Protection for Cloud Architecture',
-    description: 'Advanced security system implementing ML-based DDoS attack detection and mitigation for cloud infrastructure.',
+    title: 'AI - Powered Cross Platform Compliance Management System for CIS Benchmark Auditing',
+    description: 'A cross-platform AI-driven system for automated CIS benchmark auditing on Windows 11 and Linux.',
     icon: Shield,
-    tech: ['Python', 'TensorFlow', 'AWS'],
+    tech: ['Python'],
   },
   {
     title: 'Image Colorization Model',
@@ -15,16 +15,22 @@ const projects = [
     tech: ['Python', 'PyTorch', 'OpenCV'],
   },
   {
-    title: 'SAR Image Colorization with DL',
-    description: 'Specialized deep learning solution for colorizing Synthetic Aperture Radar imagery.',
+    title: 'Real-Time Chat Application',
+    description: 'A multi-client Java chat app using sockets and Java Swings for real-time messaging.',
     icon: Palette,
-    tech: ['Python', 'TensorFlow', 'NumPy'],
+    tech: ['Java', 'Java swings', 'Socket Programming'],
   },
   {
     title: 'Online Course Management System',
     description: 'Full-stack web application for managing online courses, assignments, and student progress.',
     icon: BookOpen,
     tech: ['React', 'Node.js', 'MongoDB'],
+  },
+  {
+    title: 'Task Manager',
+    description: 'Implemented in C++ to manage users and tasks using a priority queue, with user suggestions based on task load and tracking of task completion times',
+    icon: BookOpen,
+    tech: ['C++', 'Data Structures'],
   },
 ];
 

@@ -87,7 +87,7 @@ export default function Contact() {
 
                 {/* Gmail */}
                 <a
-                  href="mailto:yourname@gmail.com"
+                  href="mailto:ancashibu@gmail.com"
                   className="flex items-center gap-3 text-gray-300 hover:text-cyan-400 transition-colors"
                 >
                   <Mail className="w-6 h-6" />

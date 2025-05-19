@@ -16,7 +16,7 @@ export default function Academics() {
             <h3 className="text-xl font-bold text-white mb-2">Resume</h3>
             <p className="text-gray-400 mb-4">Download my detailed resume</p>
             <a 
-              href="portfolio/resume.pdf" 
+              href="portfolio/public/resume.pdf" 
               download="resume.pdf"
               className="flex items-center gap-2 px-4 py-2 bg-cyan-400 text-gray-900 rounded-lg hover:bg-cyan-300 transition-colors"
             >

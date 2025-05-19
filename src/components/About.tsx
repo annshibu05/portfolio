@@ -10,7 +10,7 @@ export default function About() {
           <div className="md:w-1/3">
             <div className="aspect-square rounded-full overflow-hidden bg-gray-700 relative shadow-lg hover:scale-105 transition-transform duration-300">
               <img
-                src="portfolio/profile.jpg"
+                src="portfolio/public/profile.jpg"
                 alt="Profile Picture"
                 className="object-cover w-full h-full"
               />

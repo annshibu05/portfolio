@@ -19,7 +19,7 @@ export default function Navigation() {
     { name: 'About', href: '#about' },
     { name: 'Projects', href: '#projects' },
     { name: 'Skills', href: '#skills' },
-    { name: 'Academics', href: '#academics' },
+    { name: 'Resume', href: '#academics' },
     { name: 'Contact', href: '#contact' },
   ];
 

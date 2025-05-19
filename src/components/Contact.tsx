@@ -85,6 +85,15 @@ export default function Contact() {
                   <span>LinkedIn</span>
                 </a>
 
+                {/* Gmail */}
+                <a
+                  href="mailto:yourname@gmail.com"
+                  className="flex items-center gap-3 text-gray-300 hover:text-cyan-400 transition-colors"
+                >
+                  <Mail className="w-6 h-6" />
+                  <span>ancashibu@gmail.com</span>
+                </a>
+
               </div>
             </div>
           </div>
